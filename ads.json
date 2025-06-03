@@ -1,5 +1,5 @@
 {
-  "ad_statut": true,
+  "ad_statut": false,
   "ad_type": 1,
   "admob_app_open": "ca-app-pub-3940256099942544/5575463023",
   "admob_banner": "ca-app-pub-3940256099942544/2435281174",
@@ -12,6 +12,6 @@
   "native_enable": true,
   "reward_enable": true,
   "interval": 3,
-  "share" : "df lsdomsd",
-  "rate" : "https://apps.apple.com/us/app/cinehut-ai-movies-assistant/id6744326205"
+  "share" : "Sahre app with your friend",
+  "rate" : "https://apps.apple.com/"
 }   
